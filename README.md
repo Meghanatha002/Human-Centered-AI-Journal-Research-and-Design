@@ -197,7 +197,8 @@ The figure below illustrates the complete EchoJournal prototype developed in Fig
 
 **Figure 1. EchoJournal High-Fidelity Prototype**
 
-*(Insert `01-echojournal-prototype.png` here.)*
+<img width="1872" height="822" alt="01-echojournal-prototype" src="https://github.com/user-attachments/assets/307fb495-9b6b-4c2e-8ad2-19ebe7e33e5c" />
+
 
 The prototype presents the complete user journey, including journaling, voice input, emotional insights, reminders, goal tracking, calendar organization, and application settings. Rather than functioning as isolated screens, these components work together to create a consistent and supportive journaling experience where AI assists users without interrupting or controlling their personal reflection.
 
